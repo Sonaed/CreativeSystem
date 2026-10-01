@@ -47,6 +47,9 @@ Typical workflows include:
 ## Project status
 
 CreativeSystem is under active development. Releases and qualification reports are published in the individual repositories. The ecosystem is currently focused on production workflows, interoperability, memory stability and long-session reliability.
+They will be no Official port for windows or MacOS, I focus on bringing tools for Linux user only (Windows and MacOs can already use Adobe)
+Looking for someone to help me test/Install through github (since I have everything locally I don't know if there's bug concerning git installation)
+Someone to teach me Pyhton is also welcome ! 
 
 ## License
 
