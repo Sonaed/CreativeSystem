@@ -9,7 +9,7 @@ The applications are designed to work independently while sharing resources and 
 | Application | Role | Status |
 |---|---|---|
 | [Existence](https://github.com/Sonaed/Existence) | Ecosystem hub, modules, scripting and shared resources | 26.1.0 |
-| [Nebula](https://github.com/Sonaed/Nebula) | Raster painting, compositing and large layered documents | 26.3.1 |
+| [Nebula](https://github.com/Sonaed/Nebula) | Raster painting, compositing and large layered documents | 26.4.0 |
 | [Nova](https://github.com/Sonaed/Nova) | RAW development and non-destructive photo adjustments | 26.1.0 |
 | [Atlas](https://github.com/Sonaed/Atlas) | Vector illustration, typography and SVG/PDF export | 26.1.0 |
 | [StarDust](https://github.com/Sonaed/StarDust) | Resource and script creation studio | 26.1.0 development |
