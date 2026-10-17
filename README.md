@@ -15,6 +15,7 @@ The applications are designed to work independently while sharing resources and 
 | [StarDust](https://github.com/Sonaed/StarDust) | Resource and script creation studio | 26.1.0 development |
 | [Cosmos](https://github.com/Sonaed/Cosmos) | Connected notes, projects and knowledge graphs | 26.0 |
 | Ephemeris | Layout and publishing workspace | In development |
+| Pulsar | Motion Design, Video Editing and 2DVFX | In development |
 
 ## Workflow
 
